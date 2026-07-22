@@ -37,5 +37,5 @@ The project includes:
 - `README.md` — project documentation
 
 
-```md
+
 ![Dashboard Preview](Dashboard.png)
